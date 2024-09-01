@@ -1,0 +1,11 @@
+server:
+  port: 7000
+
+swagger:
+  server: http://localhost:7000
+  description: Java Training - <Your Name>
+
+openApi:
+  title: Java Training
+  description: Java Training
+  version: 3.0.0
